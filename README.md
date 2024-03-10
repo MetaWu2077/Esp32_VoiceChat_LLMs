@@ -2,6 +2,7 @@
 esp32 based device, mainly used for voice chat with large language models
 
 bilibili：https://www.bilibili.com/video/BV1Xv421r715/?spm_id_from=333.999.0.0&vd_source=e90851eaa96a26b2d252237f9312b9f6
+
 微信wechat：espai1024 
 
 
