@@ -62,7 +62,7 @@ String askquestion = "";
 String Answer = "";
 
 const char *appId1 = "";  // 替换为自己的星火大模型参数
-const char *domain1 = ""; // 替换为自己的星火大模型参数
+const char *domain1 = "generalv3"; 
 const char *websockets_server = "ws://spark-api.xf-yun.com/v3.1/chat";
 const char *websockets_server1 = "ws://ws-api.xfyun.cn/v2/iat";
 using namespace websockets;
